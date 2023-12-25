@@ -1,14 +1,13 @@
 <template>
-	<header>
+	<main>
 		<h3>
 			AppMain
 		</h3>
-	</header>
+	</main>
 </template>
 
 <script>
 	// import {store} from "../store.js";
-	// import axios from "axios";
 
 	export default {
 		data() {
@@ -18,10 +17,6 @@
 		},
 
 		components: {
-
-		},
-
-		props: {
 
 		},
 
@@ -39,8 +34,6 @@
 	}
 </script>
 
-<style lang="scss" scoped>
-    // @use "../styles/general.scss" as *;
-	// @use "../styles/variables" as *;
-	// @use "../styles/mixins" as *;
+<style scoped>
+
 </style>

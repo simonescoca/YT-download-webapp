@@ -5,7 +5,7 @@ const store = reactive ({
     // datum3: "",
 });
 
-export {store}
+export {store};
 
 /**
  * import {store} from "./path"
