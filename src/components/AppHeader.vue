@@ -1,7 +1,7 @@
 <template>
 	<header>
 		<h3>
-			AppHeader
+			YT - Download
 		</h3>
 	</header>
 </template>

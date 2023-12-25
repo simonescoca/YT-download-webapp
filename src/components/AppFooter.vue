@@ -1,7 +1,13 @@
 <template>
 	<footer>
 		<h3>
-			AppFooter
+            <span>
+                Created with
+            </span>
+            <i class="fa-solid fa-heart"></i>
+            <span>
+                by Simo
+            </span>
 		</h3>
 	</footer>
 </template>
